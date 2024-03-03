@@ -14,9 +14,9 @@ on:
 
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni
-  DEVICE: m33x
-  DT_LINK: https://github.com/xgodyt9/android-recovery-tree-m33
-  DT_PATH: device/samsung/m33x
+  DEVICE: d2s
+  DT_LINK: https://github.com/TeamWin/android_device_samsung_d2s
+  DT_PATH: device/samsung/d2s
   TARGET: recoveryimage
   TZ: Europe/London
 
